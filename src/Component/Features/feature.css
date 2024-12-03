@@ -4,9 +4,12 @@
     background-color: black;
 }
 .upper{
-    background-color: #B1D8FC;
-}
-.upper,.lower{
     overflow: hidden;
     width: 99vw;
+    background-color: #B1D8FC;
+}
+.lower{
+    overflow: hidden;
+    width: 99vw;
+    background-color: #FFFBF4;
 }

@@ -19,7 +19,10 @@ export function NavBar() {
         <Navbar.Link href="#">Founder</Navbar.Link>
       </Navbar.Collapse>
       <div className="flex md:order-2">
+        
+        <a href="https://campus-link-hieg.vercel.app/choose">
         <Button>Get started</Button>
+        </a>
         <Navbar.Toggle />
       </div>
     </Navbar>

@@ -29,11 +29,17 @@
   }
   
   .campus-link {
-    font-size: 70px; /* Font size for the main title */
+    font-size: 110px; /* Font size for the main title */
     margin: 20px 0; /* Margin for spacing */
+    margin-top: 20vh;
+    font-weight: bolder;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   }
   
   .typed-animation {
-    font-size: 40px; /* Font size for the typed text */
-    color: white; /* Text color */
+    font-size: 50px; /* Font size for the typed text */
+    color: blue;
+    font-weight: 900;
+
   }
