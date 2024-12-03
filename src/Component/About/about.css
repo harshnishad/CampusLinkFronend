@@ -1,0 +1,51 @@
+.about-container{
+    overflow: hidden;
+    height: 90vh;
+    width: 99vw;
+    background-color: #B1D8FC;
+}
+.innerabout{
+    display: flex;
+}
+.images{
+    position: relative;
+    margin-top: 20vh;
+    margin-left:5vw ;
+    width: 40vw;
+}
+.images .img1{
+    position: absolute;
+    border-radius: 20px;
+    width: 30vw;
+
+} 
+.img2{
+    position: absolute;
+    border-radius: 20px;
+    width: 30vw;
+    margin-left: 15vw;
+    margin-top: 22vh;
+
+}
+.feature{
+    margin-top: 25vh;
+    margin-left: 10vw;
+   width: 50vw;
+}
+.feature span{
+   color: blue;
+}
+.feature h1 {
+    font-family:ui-rounded;
+    font-size: 50px;
+    font-weight: bold;
+}
+.feature ul div{
+    margin: 10px;
+}
+.feature ul li {
+    font-weight: 200;
+    margin-left: 10px;
+    font-size: 20px;
+    
+}

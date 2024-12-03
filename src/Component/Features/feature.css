@@ -1,0 +1,12 @@
+.mid{
+    height: 90vh;
+    width: 99vw;
+    background-color: black;
+}
+.upper{
+    background-color: #B1D8FC;
+}
+.upper,.lower{
+    overflow: hidden;
+    width: 99vw;
+}
