@@ -16,7 +16,7 @@ export function NavBar() {
         <Navbar.Link href="#">About</Navbar.Link>
         <Navbar.Link href="#">Services</Navbar.Link>
         <Navbar.Link href="#">Contact</Navbar.Link>
-        <Navbar.Link href="#">Founder</Navbar.Link>
+        <Navbar.Link href="https://harshnishad.me">Founder</Navbar.Link>
       </Navbar.Collapse>
       <div className="flex md:order-2">
         
