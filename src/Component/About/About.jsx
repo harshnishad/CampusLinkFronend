@@ -20,7 +20,7 @@ export function About() {
            <ul>
             <div className='flex'>
             <img src="https://www.deel.com/_next/static/media/check-circle.e3dc67e6.svg" alt="" />
-            <li>All Datas are stored in Encrypted form</li>
+            <li>Easy to manage attendance of your campus</li>
             </div>
             <div className='flex'>
             <img src="https://www.deel.com/_next/static/media/check-circle.e3dc67e6.svg" alt="" />
